@@ -22,9 +22,6 @@ I'm a web developer focused on building modern, secure, and practical web applic
 
 ### 🚀 Projects
 
-#### 🔐 Password Manager
-A full-stack password manager built with React, Vite, and Express.
-
 #### 🛒 E-Commerce Website
 Currently building a full-stack e-commerce application with:
 - JWT authentication
